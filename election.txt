@@ -1,0 +1,9 @@
+User choice: 1
+User plaque: 33
+Mayor search performed for plaque: 33
+User choice for another search: 1
+User choice: 3
+User plaque: 33
+Percentage calculation performed for plaque: 33
+User choice for another search: 0
+Program ended.
