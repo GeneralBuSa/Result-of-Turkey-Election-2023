@@ -1,0 +1,81 @@
+1;Adana;Zeydan Karalar;CHP;CHP:%46.57,AKP:%37.43,DEM:%5.60
+2;Adiyaman;Abdurrahman Tutdere;CHP;CHP:%49.74,AKP:%27.43,YRP:%13.74
+3;Afyon;Burcu Koksal;CHP;CHP:%50.73,AKP:%31.82,MHP:%10.87
+4;Agri;Hazal Aras;DEM;DEM:%51.07,AKP:%33.70,YRP:%4.71
+5;Amasya;Turgay Sevindi;CHP;CHP:%43.03,AKP:%28.96,MHP:%23.00
+6;Ankara;Mansur Yavas;CHP;CHP:%60.44,AKP:%31.68,YRP:%3.13
+7;Antalya;Muhittin Bocek;CHP;CHP:%48.71,AKP:%40.03,DEM:%3.11
+8;Artvin;Bilgehan Erdem;CHP;CHP:%45.22,AKP:%43.74,İYİ:%6.02
+9;Aydin;Ozlem Cercioglu;CHP;CHP:%50.53,AKP:%36.72,İYİ:%4.27
+10;Balikesir;Ahmet Akin;CHP;CHP:%51.10,AKP:%40.54,İYİ:%3.05
+11;Bilecik;Melek Mizrak Subasi;CHP;CHP:%48.88,AKP:%34.54,YRP:%7.21
+12;Bingol;Erdal Arikan;AKP;AKP:%33.69,DEM:%25.85,YRP:%21.22
+13;Bitlis;Nesrullah Tanglay;AKP;AKP:%38.23,DEM:%37.38,YRP:%7.67
+14;Bolu;Tanju Ozcan;CHP;CHP:%52.90,AKP:%28.84,MHP:%12.13
+15;Burdur;Ali Orkun Ercengiz;CHP;CHP:%46.28,AKP:%42.90,IYI:%3.36
+16;Bursa;Mustafa Bozbey;CHP;CHP:%47.62,AKP:%38.35,YRP:%4.94
+17;Canakkale;Muharrem Erkek;CHP;CHP:%39.70,IYI:%36.89,AKP:%18.27
+18;Cankiri;Ismail Hakki Esen;MHP;MHP:%59.80,AKP:%31.22,CHP:%2.69
+19;Corum;Halil Ibrahim Asgin;AKP;AKP:%40.55,MHP:%36.98,YRP:%14.46
+20;Denizli;Bulent Nuri Cavusoglu;CHP;CHP:%48.12,AKP:%38.88,IYI:%4.63
+21;Diyarbakir;Ayse Serra Bucak Kucuk;DEM;DEM:%64.09,AKP:%16.83,HUDAPAR:%7.35
+22;Edirne;Filiz Gencan Akin;CHP;CHP:%46.67,AKP:%42.29,IYI:%5.44
+23;Elazig;Sahin Serifogullari;AKP;AKP:%38.19,YRP:%21.14,CHP:%16.49
+24;Erzincan;Bekir Aksun;MHP;MHP:%40.45,İndependent candidate:%29.24,CHP:%21.08
+25;Erzurum;Mehmet Sekmen;AKP;AKP:%50.42,IYI:%22.18,DEM:%7.80
+26;Eskisehir;Ayse Unluce;CHP;CHP:%51.03,AKP:%37.85,İYİ:%3.59
+27;Gaziantep;Fatma Sahin;AKP;AKP:%38.83,CHP:%28.12,YRP:%17.23
+28;Giresun;Fuat Kose;CHP;CHP:%54.56,AKP:%37.62,YRP:%2.66
+29;Gumushane;Vedat Soner Baser;MHP;MHP:%41.62,AKP:%38.20,CHP:%13.36
+30;Hakkari;Mehmet Siddik Akis;DEM;DEM:%48.92,AKP:%46.58,CHP:%1.43
+31;Hatay;Mehmet Onturk;AKP;AKP:%44.48,CHP:%44.05,YRP:%2.62
+32;Isparta;Sukru Basdegirmen;AKP;AKP:%41.95,CHP:%21.11,IYI:%17.68
+33;Mersin;Vahap Secer;CHP;CHP:%59.52,MHP:%31.04,IYI:%3.45
+34;Istanbul;Ekrem Imamoglu;CHP;CHP:%51.14,AKP:%39.59,YRP:%2.61
+35;Izmir;Cemil Tugay;CHP;CHP:%48.97,AKP:%37.06,DEM:%4.19
+36;Kars;Otuken Senger;MHP;MHP:%36.20,DEM:%28.98,CHP:%17.24
+37;Kastamonu;Hasan Baltaci;CHP;CHP:%49.17,AKP:%36.15,MHP:%6.90
+38;Kayseri;Memduh Buyukkilic;AKP;AKP:%38.61,YRP:%19.74,IYI:%14.39
+39;Kirklareli;Derya Bulut;MHP;MHP:%41.50,CHP:%40.71,İndependent candidate:%5.94
+40;Kirsehir;Selahattin Ekincioglu;CHP;CHP:%52.86,AKP:%37.42,IYI:%2.82
+41;Kocaeli;Tahir Buyukakin;AKP;AKP:%45.83,CHP:%28.97,YRP:%7.60
+42;Konya;Ugur Ibrahim Altay;AKP;AKP:%49.44,YRP:%23.48,CHP:%12.77
+43;Kutahya;Eyup Kahveci;CHP;CHP:%29.69,MHP:%29.25,AKP:%27.71
+44;Malatya;Sami Er;AKP;AKP:%48.97,CHP:%37.28,YRP:%9.38
+45;Manisa;Ferdi Zeyrek;CHP;CHP:%57.26,MHP:%29.78,IYI:%4.91
+46;Kahramanmaras;Firat Gurgel;AKP;AKP:%42.41,YRP:%33.42,CHP:%15.22
+47;Mardin;Ahmet Turk;DEM;DEM:%57.40,AKP:%27.78,YRP:%4.48
+48;Mugla;Ahmet Aras;CHP;CHP:%55.01,MHP:%32.69,AKP:%5.69
+49;Mus;Sirri Soylemez;DEM;DEM:%42.88,AKP:%25.27,YRP:%12.85
+50;Nevsehir;Rasim Ari;IYI;IYI:%52.03,AKP:%34.50,MHP:%6.25
+51;Nigde;Emrah Ozdemir;AKP;AKP:%36.23,CHP:%25.59,MHP:%19.06
+52;Ordu;Mehmet Hilmi Guler;AKP;AKP:%40.07,IYI:%36.53,CHP:%16.58
+53;Rize;Rahmi Metin;AKP;AKP:%54.70,YRP:%17.75,CHP:%12.14
+54;Sakarya;Yusuf Alemdar;AKP;AKP:%47.19,CHP:%16.46,YRP:%12.74
+55;Samsun;Halit Dogan;AKP;AKP:%42.17,CHP:%27.01,IYI:%14.12
+56;Siirt;Sofya Alagas;DEM;DEM:%49.64,AKP:%37.14,HUDAPAR:%2.65
+57;Sinop;Metin Gurbuz;CHP;CHP:%49.36,AKP:%39.41,IYI:%4.89
+58;Sivas;Adem Uzun;BBP;BBP:%43.31,AKP:%29.18,MHP:%11.21
+59;Tekirdag;Candan Yuceer;CHP;CHP:%50.26,AKP:%35.43,DEM:%3.52
+60;Tokat;Mustafa Kemal Yazicioglu;MHP;MHP:%54.86,AKP:%30.16,CHP:%9.36
+61;Trabzon;Ahmet Metin Genc;AKP;AKP:%51.48,CHP:%28.46,YRP:%9.14
+62;Tunceli;Cevdet Konak;DEM;DEM:%40.22,CHP:%33.33,AKP:%13.24
+63;Sanliurfa;Mehmet Kasim Gulpinar;YRP;YRP:%38.87,AKP:%33.64,DEM:%21.16
+64;Usak;Ozkan Yalim;CHP;CHP:%40.89,AKP:%24.31,IYI:%16.76
+65;Van;Abdullah Zeydan;DEM;DEM:%55.48,AKP:%27.15,YRP:%5.37
+66;Yozgat;Kazim Arslan;YRP;YRP:%36.33,MHP:%29.78,AKP:%26.81
+67;Zonguldak;Tahsin Erdem;CHP;CHP:%54.52,AKP:%37.60,YRP:%2.78
+68;Aksaray;Evren Dincer;AKP;AKP:%36.85,MHP:%28.72,IYI:%20.29
+69;Bayburt;Mete Memis;AKP;AKP:%39.08,MHP:%37.88,YRP:%8.00
+70;Karaman;Savas Kalayci;MHP;MHP:%49.24,AKP:%24.05,CHP:%18.02
+71;Kirikkale;Ahmet Onal;CHP;CHP:%49.90,AKP:%23.17,MHP:%19.15
+72;Batman;Gulustan Sonuk;DEM;DEM:%65.52,HUDAPAR:%15.69,AKP:%12.42
+73;Sirnak;Mehmet Yarka;AKP;AKP:%47.58,DEM:%41.04,CHP:%4.03
+74;Bartin;Muhammet Riza Yalcinkaya;CHP;CHP:%51.29,MHP:%36.61,YRP:%4.62
+75;Ardahan;Faruk Demir;CHP;CHP:%45.06,AKP:%43.51,DEVA:%6.71
+76;Igdir;Mehmet Nuri Gunes;DEM;DEM:%46.70,AKP:%42.23,IYI:%4.48
+77;Yalova;Mehmet Gurel;CHP;CHP:%46.39,AKP:%40.35,DEM:%3.08
+78;Karabuk;Ozkan Cetinkaya;AKP;AKP:%33.71,MHP:%26.28,YRP:%22.81
+79;Kilis;Hakan Bilecen;CHP;CHP:%41.98,AKP:%27.28,MHP:%23.74
+80;Osmaniye;Ibrahim Cenet;MHP;MHP:%39.80,IYI:%23.73,CHP:%21.80
+81;Duzce;Faruk Ozlu;AKP;AKP:%40.22,YRP:%29.77,CHP:%13.37

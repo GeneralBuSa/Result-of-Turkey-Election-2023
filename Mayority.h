@@ -7,9 +7,6 @@
 class Mayority : public Election, public Cities {
 public:
     void Mayor();
-private:
-    string mayor;
-
 };
 
 #endif

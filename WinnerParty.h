@@ -7,8 +7,6 @@
 class WinnerParty : public Election, public Cities {
 public:
     void Party();
-private:
-    string party;
 };
 
 #endif

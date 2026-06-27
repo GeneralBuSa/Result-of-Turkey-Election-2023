@@ -10,6 +10,12 @@ int main() {
 
     ofstream clearFile("election.txt", ios::trunc);
     clearFile.close();
+    
+    if (!Cities::loadElectionData("election_data.txt")) {
+        cerr << "Error loading election data!" << endl;
+        return 1;
+    }
+    
     Election E1;
     Mayority M1;
     Percentage P1;
@@ -27,21 +33,23 @@ int main() {
         logFile << "User choice: " << choice << endl;
         
         while (E1.checkWhatDoYouWant(choice) == 0) {
-            cout << "Please enter a valid number (1-4)" << endl;
+            cout << "Please enter a valid number (1-6)" << endl;
             cin >> choice;
             logFile << "Invalid choice. User re-entered: " << choice << endl;
         }
         
-        if (choice == 4) break;
+        if (choice == 6) break;
         
-        cout << "Please enter the plaque: " << endl;
-        cin >> plaque;
-        logFile << "User plaque: " << plaque << endl;
-        
-        while (E1.checkPlaqueNumber(plaque) == 0) {
-            cout << "Please enter a valid number (1-81)" << endl;
+        if (choice >= 1 && choice <= 3) {
+            cout << "Please enter the plaque: " << endl;
             cin >> plaque;
-            logFile << "Invalid plaque. User re-entered: " << plaque << endl;
+            logFile << "User plaque: " << plaque << endl;
+            
+            while (E1.checkPlaqueNumber(plaque) == 0) {
+                cout << "Please enter a valid number (1-81)" << endl;
+                cin >> plaque;
+                logFile << "Invalid plaque. User re-entered: " << plaque << endl;
+            }
         }
         
         switch (choice) {
@@ -59,6 +67,18 @@ int main() {
                 P1.setPlaque(plaque);
                 P1.percentage();
                 logFile << "Percentage calculation performed for plaque: " << plaque << endl;
+                break;
+            case 4: {
+                string partyName;
+                cout << "Please enter the party name (e.g., CHP, AKP, DEM, MHP): " << endl;
+                cin >> partyName;
+                logFile << "Cities searched by winner party: " << partyName << endl;
+                Cities::printCitiesByWinnerParty(partyName);
+                break;
+            }
+            case 5:
+                Cities::printGeneralStatistics();
+                logFile << "General statistics report printed." << endl;
                 break;
         }
         
